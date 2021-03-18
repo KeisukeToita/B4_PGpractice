@@ -4,6 +4,8 @@
 #define MIN 2 //min mode
 #define SIZE 8
 
+//3年後期しんどかった
+
 void printMaxAndMin(int* input);
 int searchMaxAndMin(int* input, int size, int mode);
 
